@@ -1,0 +1,19 @@
+name: coronavirus
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - black
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyter
+  - jupyterlab
+  - pymc3
+  - requests
+  - mkl-service
+  - xlrd
+  - geopandas
+  - bokeh
+  - pip:
+    - nb_black
