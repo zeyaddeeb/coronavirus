@@ -1,6 +1,4 @@
-# Better Data Science Assessment
-
-## Coronavirus
+# Coronavirus Blog Post
 
 This code for my blog-post to the coronavirus
 
