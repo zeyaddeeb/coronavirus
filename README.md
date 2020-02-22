@@ -1,4 +1,4 @@
-# Coronavirus Blog Post
+# Coronavirus, Blog Post
 
 This code for my blog-post to the coronavirus
 
